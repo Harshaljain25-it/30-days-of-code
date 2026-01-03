@@ -1,0 +1,86 @@
+*{
+    background-color:rgb(253, 232, 208) ; font-family:"Playfair Display" , sans-serif;
+}
+header {
+    text-decoration: overline;text-decoration: underline;text-align: center;padding: 20px;
+    color: rgb(126, 42, 94);
+    
+}
+
+.pfp {
+
+    border-radius: 50%; display: block;margin: 0 auto;
+}
+.pfp:hover{
+    transition: 3s ease;
+    transform: rotateX(360deg);
+}
+.k{ text-align: center;}
+
+.me {
+    text-decoration: none;color: rgb(95, 15, 148);
+}
+
+.me:hover{
+    color: rgb(124, 12, 12); text-decoration:underline
+}
+
+.thanks{
+    text-align: right;
+
+}
+
+.btn {
+  display: inline-block;        
+  background-color: #4e3d3f;   
+  color: rgb(236, 235, 238);                 
+  padding: 12px 24px;           
+  border-radius: 8px;        
+  text-decoration: none;        
+  font-size: 16px;
+  font-weight: 500;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn:hover {
+  background-color: #a66eaa; 
+}
+
+.EX{
+    text-align: center;
+  background-color: #f5f7fa;  
+  padding: 24px;               
+  border-radius: 12px;         
+  border: 3px solid #482749;   
+  width: 400px; ;
+  margin: 20px auto;           
+}
+
+.S{
+    text-align: center;
+  background-color: #f5f7fa;  
+  padding: 24px;               
+  border-radius: 12px;         
+  border: 3px solid #482749;      
+  width: 400px; ;
+  margin: 20px auto;           
+}
+
+.I{
+    text-align: center;
+  background-color: #f5f7fa;  
+  padding: 24px;               
+  border-radius: 12px;         
+  border: 3px solid #482749;      
+  width: 400px; ;
+  margin: 20px auto;           
+}
+
+
+
+
+   
+
+.hee{
+    text-align: right;
+}
